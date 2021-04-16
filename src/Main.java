@@ -47,7 +47,7 @@ public class Main {
         System.out.println("public class Employee extends Person{}");
 
         // Exercise-12
-        // in class Dog
+        // in class WhitePony
     }
 }
 
